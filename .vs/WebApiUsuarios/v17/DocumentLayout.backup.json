@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\webapiusuarios.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\webapiusuarios.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\models\\bdpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\models\\bdpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|c:\\users\\winst\\source\\repos\\webapiusuarios\\webapiusuarios\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1E6BE5-C6E4-4287-86AA-56EA177AAEFC}|WebApiUsuarios\\WebApiUsuarios.csproj|solutionrelative:webapiusuarios\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,86 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebApiUsuarios",
-              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\WebApiUsuarios.csproj",
-              "RelativeDocumentMoniker": "WebApiUsuarios\\WebApiUsuarios.csproj",
-              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\WebApiUsuarios.csproj",
-              "RelativeToolTip": "WebApiUsuarios\\WebApiUsuarios.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-06T11:30:27.025Z",
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebApiUsuarios\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebApiUsuarios\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:52:34.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Program.cs",
-              "RelativeDocumentMoniker": "WebApiUsuarios\\Program.cs",
-              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Program.cs",
-              "RelativeToolTip": "WebApiUsuarios\\Program.cs",
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "WebApiUsuarios\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "WebApiUsuarios\\Controllers\\AccesoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T10:45:14.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Utilidades.cs",
-              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Custom\\Utilidades.cs",
-              "RelativeDocumentMoniker": "WebApiUsuarios\\Custom\\Utilidades.cs",
-              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Custom\\Utilidades.cs",
-              "RelativeToolTip": "WebApiUsuarios\\Custom\\Utilidades.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T20:34:35.295Z"
+              "WhenOpened": "2025-03-06T17:33:37.61Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApiUsuarios\\appsettings.json",
-              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\appsettings.json",
-              "RelativeToolTip": "WebApiUsuarios\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T14:32:06.077Z"
+              "Title": "usuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Models\\DTOS\\usuarioDTO.cs",
+              "RelativeDocumentMoniker": "WebApiUsuarios\\Models\\DTOS\\usuarioDTO.cs",
+              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Models\\DTOS\\usuarioDTO.cs",
+              "RelativeToolTip": "WebApiUsuarios\\Models\\DTOS\\usuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:31:12.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "WebApiUsuarios\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Models\\Usuario.cs",
-              "RelativeToolTip": "WebApiUsuarios\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Models\\DTOS\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WebApiUsuarios\\Models\\DTOS\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Models\\DTOS\\LoginDTO.cs",
+              "RelativeToolTip": "WebApiUsuarios\\Models\\DTOS\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:29:52.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "WebApiUsuarios\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Models\\Producto.cs",
-              "RelativeToolTip": "WebApiUsuarios\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:29:48.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BdpruebaContext.cs",
-              "DocumentMoniker": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Models\\BdpruebaContext.cs",
-              "RelativeDocumentMoniker": "WebApiUsuarios\\Models\\BdpruebaContext.cs",
-              "ToolTip": "C:\\Users\\winst\\source\\repos\\WebApiUsuarios\\WebApiUsuarios\\Models\\BdpruebaContext.cs",
-              "RelativeToolTip": "WebApiUsuarios\\Models\\BdpruebaContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBUAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:26:51.933Z"
+              "WhenOpened": "2025-03-06T17:29:10.472Z"
             }
           ]
         }

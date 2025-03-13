@@ -166,3 +166,5 @@ C:\Users\winst\source\repos\WebApiUsuarios\WebApiUsuarios\obj\Debug\net8.0\refin
 C:\Users\winst\source\repos\WebApiUsuarios\WebApiUsuarios\obj\Debug\net8.0\WebApiUsuarios.pdb
 C:\Users\winst\source\repos\WebApiUsuarios\WebApiUsuarios\obj\Debug\net8.0\WebApiUsuarios.genruntimeconfig.cache
 C:\Users\winst\source\repos\WebApiUsuarios\WebApiUsuarios\obj\Debug\net8.0\ref\WebApiUsuarios.dll
+C:\Users\winst\source\repos\WebApiUsuarios\WebApiUsuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\winst\source\repos\WebApiUsuarios\WebApiUsuarios\obj\Debug\net8.0\WebApiUsuarios.sourcelink.json
